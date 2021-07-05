@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://futureproofretail.nl/wp-content/uploads/2020/02/voor-ieder-wat-wils.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://futureproofretail.nl/wp-content/uploads/2020/02/voor-ieder-wat-wils.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://futureproofretail.nl/wp-content/uploads/2020/02/voor-ieder-wat-wils.jpg">https://futureproofretail.nl/wp-content/uploads/2020/02/voor-ieder-wat-wils.jpg</a></p>
+	</body>
+</html>
